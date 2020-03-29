@@ -7,7 +7,7 @@ import (
 	"log"
 	"strings"
 
-	"go.i3wm.org/i3"
+	"go.i3wm.org/i3/v4"
 )
 
 func logic() error {
