@@ -5,7 +5,7 @@ next-chrome-for-i3 focuses the chrome window on the current workspace or starts 
 If you haven’t already, [install Go](https://golang.org/dl/).
 
 ```shell
-go get -u github.com/stapelberg/next-chrome-for-i3
+go install github.com/stapelberg/next-chrome-for-i3@latest
 ```
 
 ## Usage
